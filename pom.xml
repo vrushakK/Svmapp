@@ -127,7 +127,7 @@
 			    <configuration>
 			      <archive>
 			        <manifest>
-			          <mainClass>com.svmapp.server.Svmapp</mainClass>
+			          <mainClass>com.svmapp.controllers.Svmapp</mainClass>
 			        </manifest>
 			      </archive>
 			    </configuration>
